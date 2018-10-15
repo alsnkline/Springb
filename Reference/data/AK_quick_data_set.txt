@@ -1,0 +1,18 @@
+"this is a positive review",1
+"i hated the movie",0
+"i love it",1
+"nope not for me",0
+"save your itme",0
+"got to see this one",1
+"words are, of course, the most powerful drug used by mankind.",1
+"well Said! Presentations and Conversations That Get Results",1
+"well said",1
+"use positive words and phrases",1
+"your hat is so cute. Where did you get it",1
+"You look really good today!",1
+"You look sad today",0
+"what's getting you down",0
+"I really like your new belt.",1
+"i don't really care for your trousers",0
+"wow great haircut",1
+"oh no what happened to your hair",0
